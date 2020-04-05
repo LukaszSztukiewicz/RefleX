@@ -1,2 +1,2 @@
 # RefleX
-Siema Mikołaju!
+A hello-world repo for RefleXMeasurment project
